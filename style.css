@@ -1,0 +1,7 @@
+html{background-color: #EFE1D1;}
+td{padding: 10px;}
+.menu{background-color:#c16d98d0; color: #EFE1D1; border-style: solid;}
+h1, h2, h3{color:#331D2C; font-style: oblique;}
+p, li, .content{color: #71076a;}
+img{border-style: double; border-radius: 180px;border-width: 5px; border-color: #71076a; }
+header, footer{text-align: center; color: #71076a; font-size: smaller;}
